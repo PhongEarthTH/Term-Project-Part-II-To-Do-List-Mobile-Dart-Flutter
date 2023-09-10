@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullname": "somchai jaidee",
+      "email": "somchai@gmail.com",
+      "password": "1q2w3e4r",
+      "gender": "Female"
+    },
+    {
+      "id": 2,
+      "fullname": "Wirasinee Nuanla-ong",
+      "email": "test@mail.com",
+      "password": "qwerty",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "fullname": "user",
+      "email": "p@gmail.com",
+      "password": "12345",
+      "gender": null
+    },
+    {
+      "id": 3,
+      "fullname": "user fam",
+      "email": "fam@gmail.com",
+      "password": "12345",
+      "gender": null
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1,
+      "taskName": "Task 1",
+      "details": "Details of Task 1",
+      "date": "2023-09-10"
+    },
+    {
+      "id": 2,
+      "taskName": "Task 2",
+      "details": "Details of Task 2",
+      "date": "2023-09-11"
+    },
+    {
+      "id": 3,
+      "taskName": "Task 3",
+      "details": "Details of Task 3",
+      "date": "2023-09-12"
+    }
+  ]
+}
